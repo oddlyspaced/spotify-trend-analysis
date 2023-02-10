@@ -13,10 +13,8 @@ This script contains functions used in the Generalized Spotify Analyser
 
 import pandas as pd
 import time
-import math
 import os.path
 import random
-import requests
 import spotipy.oauth2 as oauth2
 import spotipy
 
