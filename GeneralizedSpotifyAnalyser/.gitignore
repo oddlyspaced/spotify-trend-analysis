@@ -1,0 +1,7 @@
+*.mp3
+*.pkl
+*.pyc
+CACHE
+.cache-*
+testScript.py
+testCACHE
